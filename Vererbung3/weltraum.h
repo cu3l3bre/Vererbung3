@@ -18,7 +18,7 @@ public:
 class Stern : public Himmelskoerper
 {
 public:
-	double Leuchtkraft;	// Enheit ???
+	double leuchtkraft;	// Enheit ???
 
 };
 
@@ -35,7 +35,7 @@ public:
 class Mond : public Himmelskoerper
 {
 public:
-	double Umlaufzeit;	// Einheit???
+	double umlaufzeit;	// Einheit???
 
 
 };
