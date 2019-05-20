@@ -26,18 +26,15 @@ int main()
 
 
 	Planet erde;
-
 	erde.radius = 6347;
 	erde.masse = 0.01;
 	erde.istBewohnt = true;
 
 
 	Mond erdmond;
-
 	erdmond.radius = 1000;
 	erdmond.masse = 0.0001;
 	erdmond.umlaufzeit = 29.5; // tage
-
 
 
 	system("pause");
